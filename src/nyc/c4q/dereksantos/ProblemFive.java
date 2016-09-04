@@ -23,7 +23,7 @@ public class ProblemFive {
     public static void main(String[] args) {
 
         System.out.println(chessboard(8));
-        
+
     }
 
     public static String chessboard(int size) {
